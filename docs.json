@@ -118,5 +118,8 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "api": {
+    "openapi": "https://public-api.stora.co/2025-09/openapi.json"
   }
 }
